@@ -72,9 +72,7 @@ paths: {}
 
 rap2支持swagger导入，生成API，这样就解决了，mock server同步问题。
 
-![rap2-swagger](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rap2-swagger.png)
-
-
+[![N8hJp.png](https://cdn.img.wenhairu.com/images/2020/04/06/N8hJp.png)](https://img.wenhairu.com/image/N8hJp)
 
 ### Rapper
 
@@ -86,7 +84,7 @@ rap2支持swagger导入，生成API，这样就解决了，mock server同步问�
 
 1. 进入仓库，点击配置「生成 TS 代码」
 
-![rapper](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper.png)
+[![N8lo6.png](https://cdn.img.wenhairu.com/images/2020/04/06/N8lo6.png)](https://img.wenhairu.com/image/N8lo6)
 
 2. 按照指引把 Rapper 安装到项目中
 3. 执行 `npm run rapper` 生成代码
@@ -107,11 +105,11 @@ import { fetch } from './rapper/index';
 
 ##### 友好的类型约束和提示
 
-![rapper-suggestion](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper2.gif)
+[![NA6Fu.gif](https://cdn.img.wenhairu.com/images/2020/04/06/NA6Fu.gif)](https://img.wenhairu.com/image/NA6Fu))
 
 ##### 跳转到Rap查看接口文档
 
-![rapper-jump](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper3.gif)
+[![N8vdI.gif](https://cdn.img.wenhairu.com/images/2020/04/06/N8vdI.gif)](https://img.wenhairu.com/image/N8vdI)
 
 
 
