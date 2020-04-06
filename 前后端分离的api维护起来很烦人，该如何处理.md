@@ -72,7 +72,7 @@ paths: {}
 
 rap2支持swagger导入，生成API，这样就解决了，mock server同步问题。
 
-![rap2-swagger](./imgs/rap2-swagger.png)
+![rap2-swagger](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rap2-swagger.png)
 
 
 
@@ -86,7 +86,7 @@ rap2支持swagger导入，生成API，这样就解决了，mock server同步问�
 
 1. 进入仓库，点击配置「生成 TS 代码」
 
-![rapper](./imgs/rapper.png)
+![rapper](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper.png)
 
 2. 按照指引把 Rapper 安装到项目中
 3. 执行 `npm run rapper` 生成代码
@@ -107,11 +107,11 @@ import { fetch } from './rapper/index';
 
 ##### 友好的类型约束和提示
 
-![rapper-suggestion](./imgs/rapper2.gif)
+![rapper-suggestion](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper2.gif)
 
 ##### 跳转到Rap查看接口文档
 
-![rapper-jump](./imgs/rapper3.gif)
+![rapper-jump](https://github.com/SUN-LG/fe-blog/blob/master/imgs/rapper3.gif)
 
 
 
